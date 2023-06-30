@@ -39,6 +39,11 @@ Produtos da Genesis:
 
 O objetivo deste teste é avaliar a habilidade do desenvolvedor em criar um aplicativo utilizando React Native, que exiba as cotações de moedas utilizando a API da CoinGecko.
 
+**Tela para desenvolvimento** 
+
+
+![Alt text](/iPhone%2014%20Pro%20-%201.png) 
+
 **Requisitos Funcionais:**:
 
 * O aplicativo deve se comunicar com a API da CoinGecko para obter os dados das cotações de moedas.
@@ -69,3 +74,5 @@ O objetivo deste teste é avaliar a habilidade do desenvolvedor em criar um apli
 Interface de usuário: O aplicativo deve ter uma interface de usuário atraente, intuitiva e responsiva.
 
 * Experiência do usuário: O aplicativo deve fornecer uma experiência agradável ao usuário, com carregamento rápido das cotações e navegação suave entre as telas.
+
+
